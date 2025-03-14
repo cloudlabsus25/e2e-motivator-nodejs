@@ -1,4 +1,4 @@
-const Motivator = require('../models/motivator');
+const Motivator = require("../models/motivator");
 
 exports.getMotivators = async (req, res) => {
     const motivators = await Motivator.find();
