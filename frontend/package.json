@@ -12,7 +12,7 @@
     "react-scripts": "^3.0.1",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {
+  "scripts": {  
     "start": "HOST=0.0.0.0 react-scripts start",
     "lint": "eslint .",
     "build": "react-scripts build",
